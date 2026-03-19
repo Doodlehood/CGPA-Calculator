@@ -23,4 +23,4 @@ A simple C++ program that calculates CGPA based on user input.
 - Improve input validation
 
 ## 👤 Author
-Your Name
+Azan Waseem
